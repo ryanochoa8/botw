@@ -1,0 +1,14 @@
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.csprojAssemblyReference.cache
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.csproj.CoreCompileInputs.cache
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.RazorAssemblyInfo.cache
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.RazorAssemblyInfo.cs
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.AssemblyInfoInputs.cache
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.AssemblyInfo.cs
+/Users/RyanOchoa/source/Projects/botw/bin/Debug/netcoreapp2.2/botw.deps.json
+/Users/RyanOchoa/source/Projects/botw/bin/Debug/netcoreapp2.2/botw.runtimeconfig.json
+/Users/RyanOchoa/source/Projects/botw/bin/Debug/netcoreapp2.2/botw.runtimeconfig.dev.json
+/Users/RyanOchoa/source/Projects/botw/bin/Debug/netcoreapp2.2/botw.dll
+/Users/RyanOchoa/source/Projects/botw/bin/Debug/netcoreapp2.2/botw.pdb
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.RazorTargetAssemblyInfo.cache
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.dll
+/Users/RyanOchoa/source/Projects/botw/obj/Debug/netcoreapp2.2/botw.pdb

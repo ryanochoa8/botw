@@ -1,18 +1,20 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Zelda Breath of the Wild Recipe API</h1>
+    <SearchBar></SearchBar>
+
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+  // @ is an alias to /src
+  import SearchBar from '../components/SearchBar.vue'
 
-export default {
-  name: 'home',
-  components: {
-    HelloWorld
+
+  export default {
+    name: 'home',
+    components: {
+      SearchBar
+    }
   }
-}
 </script>

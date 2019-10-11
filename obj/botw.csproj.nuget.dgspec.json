@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\apps\\botw\\botw.csproj": {}
+    "/Users/RyanOchoa/source/Projects/botw/botw.csproj": {}
   },
   "projects": {
-    "C:\\source\\apps\\botw\\botw.csproj": {
+    "/Users/RyanOchoa/source/Projects/botw/botw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\apps\\botw\\botw.csproj",
+        "projectUniqueName": "/Users/RyanOchoa/source/Projects/botw/botw.csproj",
         "projectName": "botw",
-        "projectPath": "C:\\source\\apps\\botw\\botw.csproj",
-        "packagesPath": "C:\\Users\\Sarah Opalenik\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\apps\\botw\\obj\\",
+        "projectPath": "/Users/RyanOchoa/source/Projects/botw/botw.csproj",
+        "packagesPath": "/Users/RyanOchoa/.nuget/packages/",
+        "outputPath": "/Users/RyanOchoa/source/Projects/botw/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sarah Opalenik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/RyanOchoa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,6 +55,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "mysqlconnector": {
+              "target": "Package",
+              "version": "[0.59.2, )"
             }
           },
           "imports": [
